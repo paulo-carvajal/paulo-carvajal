@@ -59,11 +59,11 @@ on the WordPress.org directory. Structured data for WordPress, validated where y
 Everything I present is published with runnable code.
 
 
-| Talk                                                                                                                              | Repository                                                                                 | Topic                                                  |
+| Talk video                                                                                                                        | Repository                                                                                 | Topic                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
 | [WordCamp Zaragoza 2026](https://wordpress.tv/2026/01/28/construye-experiencias-dinamicas-con-la-interactivity-api-de-wordpress/) | [wczgz26](https://github.com/paulo-carvajal/wczgz26)                                       | Eight demo blocks for the WordPress Interactivity API. |
 | [MeetUp BIO 2026](https://wordpress.tv/2026/02/14/nuevas-apis-de-desarrollo-de-wordpress/)                                        |                                                                                            | (Not so) New WordPress APIs.                           |
-| Not given talk                                                                                                                    | [meetup_2025_gravity_extend](https://github.com/paulo-carvajal/meetup_2025_gravity_extend) | Extending Gravity Forms fields from plugins.           |
+|                                                                                                                                   | [meetup_2025_gravity_extend](https://github.com/paulo-carvajal/meetup_2025_gravity_extend) | Extending Gravity Forms fields from plugins.           |
 | [WordCamp Pontevedra 2022](https://wordpress.tv/2022/09/25/usar-http-api-para-consumir-recursos-externos/)                        | [wcpo2022_http_api](https://github.com/paulo-carvajal/wcpo2022_http_api)                   | Consuming external APIs with the WordPress HTTP API.   |
 | [WordCamp Spain 2021](https://wordpress.tv/2021/11/06/paulo-carvajal-extender-modificar-y-usar-la-rest-api-una-aproximacion-oop/) | [wces2021_oop_rest_api](https://github.com/paulo-carvajal/wces2021_oop_rest_api)           | Custom REST API routes with object-oriented PHP.       |
 
